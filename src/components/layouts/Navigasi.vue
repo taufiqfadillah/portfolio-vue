@@ -52,7 +52,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../frontend/assets/cv/Resume-Taufiq-Fadillah-2024.pdf" target="_blank">
+          <a class="nav-link" href="../frontend/assets/cv/CV Taufiq Fadillah.pdf" target="_blank">
             <span class="nav-link-desktop">Download CV</span>
             <span class="nav-link-mobile">D</span>
             <span class="nav-circle"></span>

@@ -51,7 +51,7 @@ export default {
   name: 'About',
 
   setup() {
-    const typerWords = ["Hi There!, I'm Taufiq", 'sample typing'];
+    const typerWords = ["Hi There!, I'm Taufiq", 'Freelancer Web'];
     const technologies = [
       { name: 'HTML5', iconClass: 'fa-html5', color: 'rgb(227, 78, 38)' },
       { name: 'CSS', iconClass: 'fa-css3-alt', color: 'rgb(38, 77, 228)' },

@@ -104,6 +104,36 @@
         <!-- end portfolio-box -->
       </div>
       <!-- end Portfolio Item 6 -->
+      <!-- Portfolio Item 7 -->
+      <div class="col-12 col-xl-6 portfolio-item category-1">
+        <div class="portfolio-box">
+          <!-- Image -->
+          <img v-bind:src="'frontend/assets/images/portfolio7.webp'" alt="" v-bind:width="400" v-bind:height="400" style="aspect-ratio: 1/1" />
+          <!-- Category -->
+          <span class="portfolio-category">Front-End</span>
+          <!-- Caption -->
+          <div class="portfolio-caption">
+            <h1><a href="https://sheenabajubodo.store/" target="_blank">Sheena Baju Bodo</a></h1>
+          </div>
+        </div>
+        <!-- end portfolio-box -->
+      </div>
+      <!-- end Portfolio Item 7 -->
+      <!-- Portfolio Item 8 -->
+      <div class="col-12 col-xl-6 portfolio-item category-1">
+        <div class="portfolio-box">
+          <!-- Image -->
+          <img v-bind:src="'frontend/assets/images/portfolio8.webp'" alt="" v-bind:width="400" v-bind:height="400" style="aspect-ratio: 1/1" />
+          <!-- Category -->
+          <span class="portfolio-category">Front-End</span>
+          <!-- Caption -->
+          <div class="portfolio-caption">
+            <h1><a href="https://crg.agriculture.unhas.ac.id/" target="_blank">Cocoa Research Group Unhas</a></h1>
+          </div>
+        </div>
+        <!-- end portfolio-box -->
+      </div>
+      <!-- end Portfolio Item 8 -->
     </div>
 
     <!-- end row -->
